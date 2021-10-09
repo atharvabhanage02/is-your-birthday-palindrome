@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 1rem;
+    box-sizing: border-box;
+    height: 100vh;
+    background-color: rgb(29, 35, 51);
+    color: white;
+  }
+  h1{
+      text-align: center;
+  }
+  main {
+    
+    text-align: center;
+    height: 100%;
+  }
+
+  #input-birthday{
+      width:40%;
+      padding: 1rem;
+      margin-top: 2rem;
+      font-size: x-large;
+  }
+  
+  #btn-check{
+    margin: auto;
+    display: block;
+    margin-top: 2rem;
+    padding: 0.5rem;
+    font-size: x-large;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 00.8rem;
+    border:1px solid black;
+    font-weight: bolder;
+  }
+
+
+  h2 {
+    padding: 2rem;
+    text-align: center;
+    
+    margin-top: 1rem;
+  }
